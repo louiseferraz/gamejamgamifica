@@ -1,0 +1,1588 @@
+fileFormatVersion: 2
+guid: 2c74b17e7f6bb0742a1329c24311a7f9
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tf_darkdimension_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 304
+        width: 112
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6424d9b4d1a2d2a40bd197d117e7a24c
+      internalID: 1095775850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_darkdimension_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 225
+        width: 128
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc2b08e811a6d34aa17b59b35863652
+      internalID: -2057985946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_darkdimension_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 273
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c17e7da8ccf6b49b2475de927a9ebd
+      internalID: 1678295397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_darkdimension_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 274
+        width: 16
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b2f1ce8d5d1609429f0d2fedd4f5575
+      internalID: 1479257922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_darkdimension_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 287
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 123900c11485e5b498482e2af31ca0a7
+      internalID: 683716046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_darkdimension_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 286
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 681febd895abae746aa734c223b0b39d
+      internalID: -199716965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_darkdimension_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 285
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae162fa4c415a0448bc0309421629657
+      internalID: -734841980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_darkdimension_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 293
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b2bf90ca05d19444b6a8ea1847de97b
+      internalID: 1823488876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_darkdimension_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 291
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b4aa579c3927043ba7d1d14233533b
+      internalID: -671151121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_darkdimension_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 292
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1153d3f8ece35745b44194e39be7426
+      internalID: 740540305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_darkdimension_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 290
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d56a648e479dd446aa058a724f4579e
+      internalID: -1034003981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_darkdimension_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 289
+        width: 29
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e52e5183e4bc9214291cdea6a96fad1c
+      internalID: 201425576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_darkdimension_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 274
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b10f15a7c8553e48a9b0c7ecb0732cb
+      internalID: 1733412373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_darkdimension_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 274
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0328e61236747934faf7f4d85a24a004
+      internalID: -974459043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_darkdimension_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 274
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9391c1e4ba8ec244abcc119a1b326b4
+      internalID: 1139390924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_darkdimension_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 274
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c87704ff6879ec74596b9423a26f05e2
+      internalID: 1175139121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_darkdimension_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 276
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d8e8e13221b9147b33e50f35ba3538
+      internalID: -1171856932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_darkdimension_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 276
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0bf3e47006d1254baaef852d97bf781
+      internalID: 828869984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_darkdimension_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 276
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a708cfca8a76f49a0ab4299f74223b
+      internalID: -1175210627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_darkdimension_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 277
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f94d5527d285345aeb61839c7e2e7b
+      internalID: 1761919585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_darkdimension_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 277
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac01d7dc02bdf345838cd479ec1e381
+      internalID: 1889989914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_darkdimension_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 277
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f81a5a34fea2b428110367f542384c
+      internalID: 497331513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_darkdimension_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 258
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e0c4b079d827fe4fbbbf696a091ec7f
+      internalID: 1822954864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_darkdimension_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 257
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03fb1dba75574164ebdb192f7508e203
+      internalID: 2010216150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_darkdimension_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 259
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fbabbad64d13234e8c34aeefa18478f
+      internalID: 1123908999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_darkdimension_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 245
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed3488c388bb5b469e96093fc677288
+      internalID: -1515403407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_darkdimension_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 246
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31bab824facce174c93104a9f4135d0d
+      internalID: 981296475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_darkdimension_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 246
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a0903e03bc86647bab4c188b48169f
+      internalID: -433336536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_darkdimension_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 248
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d701bb5b49bf32d4fa40d53304cfce27
+      internalID: 324079694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_darkdimension_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 247
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b795e3ce8c27d4e8c867e62ecc1e9c
+      internalID: -357747207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_darkdimension_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 243
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91a06b48e4bc64c4f8fb4b94682ad426
+      internalID: -904376442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_darkdimension_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 209
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a0fcc7d56eeb547a56b3affc4b9320
+      internalID: 1894466701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_darkdimension_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 209
+        width: 16
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2739094c31dc3184fb8a317ecbdee401
+      internalID: -713996722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_darkdimension_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 228
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c4cd85f1e555e84796fd73c7bcc6916
+      internalID: 471207484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_darkdimension_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 244
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c4db6de305dcd2458bdf9f7a6c801fa
+      internalID: 1530962749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_darkdimension_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 243
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61773273f753c784e8954b252dded21d
+      internalID: -351410475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_darkdimension_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 241
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4befde648815e94baac9cfe28a956d3
+      internalID: -899719880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_darkdimension_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 228
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f0fb9b2c7265614584b8490c791cfc1
+      internalID: 1704466772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_darkdimension_sheet_38
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 228
+        width: 6
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ade822af4a9e24bbf5cb3d8fdb483c
+      internalID: -983455304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_darkdimension_sheet_39
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 228
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0749da1728c78244ebf8f9ed20257570
+      internalID: 1444341670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_darkdimension_sheet_40
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 211
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f50ddee915f342a40851d2720e3734b7
+      internalID: -431533262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_darkdimension_sheet_41
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 217
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c2cf626635198a4785135103562f222
+      internalID: -676684170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_darkdimension_sheet_42
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 225
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43530aa6d23d0a148b2400ea6f9a3066
+      internalID: -1447403489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_darkdimension_sheet_43
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 226
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50707b2dd898a674f888de40aa9c516b
+      internalID: -704137955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_darkdimension_sheet_44
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 228
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9066c16b330a744585e643828ad1a27
+      internalID: 1695473323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_darkdimension_sheet_45
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 225
+        width: 29
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a68c54ae49ccc47a81f6c52f1925f9
+      internalID: -1463792840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_darkdimension_sheet_46
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 128
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ca916ad54a9184fb821db87564a0e2
+      internalID: 324866933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_darkdimension_sheet_47
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 66
+        width: 128
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 633eee4994b60d54bb5da6a8d944c918
+      internalID: -1363648147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_darkdimension_sheet_48
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 161
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7e3a7364424fd0419d2e08724ae19f8
+      internalID: -502052767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_darkdimension_sheet_49
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 162
+        width: 16
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f050d4535d1a54d8f8e3ba210f261e
+      internalID: 2032786462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_darkdimension_sheet_50
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 180
+        width: 41
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7854063eafcc28842b5fb58b2fa28435
+      internalID: 1128339681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_darkdimension_sheet_51
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 191
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b2895a73e2f7e344bc684131833e8cc
+      internalID: 33574195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_darkdimension_sheet_52
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 190
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 992200d2677e4824585765ac3940c041
+      internalID: 516854009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_darkdimension_sheet_53
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 113
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df4237f658914694c90218eaf99ff28d
+      internalID: 2121987951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_darkdimension_sheet_54
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 114
+        width: 16
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dfac3ffa963dc34ba271e42e1b46f2a
+      internalID: -1591965161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_darkdimension_sheet_55
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 146
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0744ff3222054fa47a4ec3ba33a8b3ef
+      internalID: -1978599718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_darkdimension_sheet_56
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 145
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6efce9845bedbcf4ca23b5a42588f347
+      internalID: -2140588539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_darkdimension_sheet_57
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 144
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d5049ab82a7f514a93d83821419755b
+      internalID: -833754984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_darkdimension_sheet_58
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 132
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df0f78038bf1ed419e9a79ff180fe8e
+      internalID: -2120310889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_darkdimension_sheet_59
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 132
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e565657a616fd4d89abddce357787c
+      internalID: -1118187012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_darkdimension_sheet_60
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 132
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e0f00e60b0c17e42ad5bac30cd34927
+      internalID: -1965676780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_darkdimension_sheet_61
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3648300def69dab4a80f86b097e292f7
+      internalID: -2136095590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_darkdimension_sheet_62
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 65
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ed1ceed6d8ff14c85f320a41c9a7ba
+      internalID: 278692034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_darkdimension_sheet_63
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 66
+        width: 16
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb7e5d55ec92604d8e0b148270417d7
+      internalID: 1063429187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_darkdimension_sheet_64
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 21
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e15e40f919474a41890ad7c2a3e3ef3
+      internalID: -2045467058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_darkdimension_sheet_65
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 19
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f86632ddf17add3438f5b38967d5fc44
+      internalID: -710584299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_darkdimension_sheet_66
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 18
+        width: 24
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2fe40dee7c8c564ca19d14fc1a6d7a1
+      internalID: 43554637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      tf_darkdimension_sheet_0: 1095775850
+      tf_darkdimension_sheet_1: -2057985946
+      tf_darkdimension_sheet_10: -1034003981
+      tf_darkdimension_sheet_11: 201425576
+      tf_darkdimension_sheet_12: 1733412373
+      tf_darkdimension_sheet_13: -974459043
+      tf_darkdimension_sheet_14: 1139390924
+      tf_darkdimension_sheet_15: 1175139121
+      tf_darkdimension_sheet_16: -1171856932
+      tf_darkdimension_sheet_17: 828869984
+      tf_darkdimension_sheet_18: -1175210627
+      tf_darkdimension_sheet_19: 1761919585
+      tf_darkdimension_sheet_2: 1678295397
+      tf_darkdimension_sheet_20: 1889989914
+      tf_darkdimension_sheet_21: 497331513
+      tf_darkdimension_sheet_22: 1822954864
+      tf_darkdimension_sheet_23: 2010216150
+      tf_darkdimension_sheet_24: 1123908999
+      tf_darkdimension_sheet_25: -1515403407
+      tf_darkdimension_sheet_26: 981296475
+      tf_darkdimension_sheet_27: -433336536
+      tf_darkdimension_sheet_28: 324079694
+      tf_darkdimension_sheet_29: -357747207
+      tf_darkdimension_sheet_3: 1479257922
+      tf_darkdimension_sheet_30: -904376442
+      tf_darkdimension_sheet_31: 1894466701
+      tf_darkdimension_sheet_32: -713996722
+      tf_darkdimension_sheet_33: 471207484
+      tf_darkdimension_sheet_34: 1530962749
+      tf_darkdimension_sheet_35: -351410475
+      tf_darkdimension_sheet_36: -899719880
+      tf_darkdimension_sheet_37: 1704466772
+      tf_darkdimension_sheet_38: -983455304
+      tf_darkdimension_sheet_39: 1444341670
+      tf_darkdimension_sheet_4: 683716046
+      tf_darkdimension_sheet_40: -431533262
+      tf_darkdimension_sheet_41: -676684170
+      tf_darkdimension_sheet_42: -1447403489
+      tf_darkdimension_sheet_43: -704137955
+      tf_darkdimension_sheet_44: 1695473323
+      tf_darkdimension_sheet_45: -1463792840
+      tf_darkdimension_sheet_46: 324866933
+      tf_darkdimension_sheet_47: -1363648147
+      tf_darkdimension_sheet_48: -502052767
+      tf_darkdimension_sheet_49: 2032786462
+      tf_darkdimension_sheet_5: -199716965
+      tf_darkdimension_sheet_50: 1128339681
+      tf_darkdimension_sheet_51: 33574195
+      tf_darkdimension_sheet_52: 516854009
+      tf_darkdimension_sheet_53: 2121987951
+      tf_darkdimension_sheet_54: -1591965161
+      tf_darkdimension_sheet_55: -1978599718
+      tf_darkdimension_sheet_56: -2140588539
+      tf_darkdimension_sheet_57: -833754984
+      tf_darkdimension_sheet_58: -2120310889
+      tf_darkdimension_sheet_59: -1118187012
+      tf_darkdimension_sheet_6: -734841980
+      tf_darkdimension_sheet_60: -1965676780
+      tf_darkdimension_sheet_61: -2136095590
+      tf_darkdimension_sheet_62: 278692034
+      tf_darkdimension_sheet_63: 1063429187
+      tf_darkdimension_sheet_64: -2045467058
+      tf_darkdimension_sheet_65: -710584299
+      tf_darkdimension_sheet_66: 43554637
+      tf_darkdimension_sheet_7: 1823488876
+      tf_darkdimension_sheet_8: -671151121
+      tf_darkdimension_sheet_9: 740540305
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
